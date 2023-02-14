@@ -1,9 +1,9 @@
-<h2>Telecom Churn, Kaggle Competition and Cousera-Advanced-Datascience-Capstone-Project</h2>
+<h1>Telecom Churn, Kaggle Competition and Cousera-Advanced-Datascience-Capstone-Project</h1>
 
-<h3>Motivation:</h3>
+<h2>Motivation:</h2>
 <p>I had to find project for the Coursera Advanced Data Science Capstone.</p>
 
-<h3>Project Description:</h3>
+<h2>Project Description:</h2>
 <p>In the telecom industry, customers are able to choose from multiple service providers and actively switch from one operator to another. In this highly competitive market, the telecommunications industry experiences an average of 15-25% annual churn rate.
 Given the fact that it costs 5-10 times more to acquire a new customer than to retain an existing one, customer retention has now become even more important than customer acquisition.
 
@@ -12,7 +12,7 @@ goal. To reduce customer churn, telecom companies need to predict which customer
 
 In this competition, your goal is to build a machine learning model that is able to predict churning customers based on the features provided for their usage.</p>
 
-<h4>Project Structure:</h4>
+<h3>Project Structure:</h3>
 <p>The structure of this project is divided into two  different jupyter notebook:</p>
 <ol>  
   <li><b>Telecom_data_prep.ipynb</b>
